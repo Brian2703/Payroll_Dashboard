@@ -1,0 +1,28 @@
+PayRateID,Year,Grade,PayRateStandard,JobsTitle
+CEO,,,50,CEO
+CFO,,,50,CFO
+CTO,,,50,CTO
+CSO,,,50,CSO
+CMO,,,50,CMO
+ISD,,,12,Intern Software Developer
+ESDC,1,C,20.5,Entry Software Developer
+ESDB,1,B,21.5,Entry Software Developer
+ESDA,1,A,22.5,Entry Software Developer
+JSDC,2,C,23.5,Junior Software Developer
+JSDB,2,B,24.5,Junior Software Developer
+JSDA,2,A,25.5,Junior Software Developer
+SSDC,3+,C,26.5,Senior Software Developer
+SSDB,3+,B,27.5,Senior Software Developer
+SSDA,3+,A,28.5,Senior Software Developer
+SMDB,3+,B,27,Senior Mobile Developer
+SMDA,3+,A,28,Senior Mobile Developer
+IDM,,,8,Intern Digital Marketing
+EDMC,1,C,15.5,Entry Digital Marketing
+EDMB,1,B,16.5,Entry Digital Marketing
+EDMA,1,A,17.5,Entry Digital Marketing
+JDMC,2,C,18.5,Junior Digital Marketing
+JDMB,2,B,19.5,Junior Digital Marketing
+JDMA,2,A,20.5,Junior Digital Marketing
+SDMC,3+,C,21.5,Senior Digital Marketing
+SDMB,3+,B,22.5,Senior Digital Marketing
+SDMA,3+,A,23.5,Senior Digital Marketing

@@ -1,4 +1,4 @@
-# Payroll_Dashboard
+# Payroll Remediation & Employee Dashboard
 
 ## Overview
 In the payroll dashboard project, SQL is utilized to clean and prepare payroll data by handling inconsistencies value, ensuring accurate calculations for salaries, leave, scheduled hours. The cleaning process involves data validation, standardizing formats, and organizing the payroll data for effective analysis.
